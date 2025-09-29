@@ -1,3 +1,5 @@
+# * ABSTRACT OF THE FOLLOWING PAPERS * 
+
 #  Modeling, Simulation and Control of Electronic Circuits in the Application Electronics Lab (Modeling_simulation_and_control_of_elect.pdf)
 This paper presents the description, properties, and use of the Electronics Lab application from Autodesk 123D Circuits for modeling and simulation of electrical and electronic circuits in technical systems. It demonstrates the use of Electronics Lab in teaching electrical installations and digital electronics, with its integration of the Arduino platform for programming and control of models such as LEDs, traffic lights, and displays in real time. The application is highlighted for its simplicity, free availability, and interactive learning environment.
 
